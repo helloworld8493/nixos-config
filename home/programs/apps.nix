@@ -14,5 +14,6 @@ in
     trezor-suite
     pavucontrol
     seahorse
+    freetube
   ];
 }
